@@ -27,14 +27,14 @@ Visit Website: https://goqr.me/api/
 
 ## Screenshots
 
-<img src="./Screenshots/ss1.png" />
+<!-- <img src="./Screenshots/ss1.png" /> -->
 
 <br><br>
 After clicking on Generate Button, UI looks like:
 
-<img src="./Screenshots/ss2.png" />
+<!-- <img src="./Screenshots/ss2.png" /> -->
 
 
 ## Live Demo
 
-<img src="./Screenshots/demo.gif" />
+<!-- <img src="./Screenshots/demo.gif" /> -->
