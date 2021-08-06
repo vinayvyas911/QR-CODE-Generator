@@ -25,16 +25,16 @@ Visit Website: https://goqr.me/api/
 - Run the index.html file
 
 
-## Screenshots
+<!-- ## Screenshots -->
 
 <!-- <img src="./Screenshots/ss1.png" /> -->
 
-<br><br>
-After clicking on Generate Button, UI looks like:
+<!-- <br><br> -->
+<!-- After clicking on Generate Button, UI looks like: -->
 
 <!-- <img src="./Screenshots/ss2.png" /> -->
 
 
-## Live Demo
+<!-- ## Live Demo -->
 
 <!-- <img src="./Screenshots/demo.gif" /> -->
